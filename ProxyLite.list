@@ -14,6 +14,7 @@ IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,cults3d.com
+DOMAIN-SUFFIX,autopatchhk.yuanshen.com
 DOMAIN-SUFFIX,garden.breadio.wiki
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,v2rayssr.com
