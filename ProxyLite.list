@@ -13,6 +13,7 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
+DOMAIN-SUFFIX,anitabi.cn
 DOMAIN-SUFFIX,cults3d.com
 DOMAIN-SUFFIX,autopatchhk.yuanshen.com
 DOMAIN-SUFFIX,garden.breadio.wiki
