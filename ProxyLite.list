@@ -1,5 +1,10 @@
 # 代理补充列表
 
+# CTE
+DOMAIN-KEYWORD, mcc234
+DOMAIN-SUFFIX, ee.co.uk
+IP-CIDR,31.94.0.0/16
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
